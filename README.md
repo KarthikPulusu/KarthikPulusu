@@ -2,7 +2,7 @@
 
 **💻 Software Engineer | 📊 Data Scientist**
 
-Experienced in Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL, and advanced AI/ML domains such as Machine Learning, Deep Learning, NLP, and Artificial Intelligence.
+Skilled in Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL, and advanced AI/ML domains such as Machine Learning, Deep Learning, NLP, and Artificial Intelligence.
 
 ## I’ve built impactful projects including:
 
@@ -13,6 +13,7 @@ Experienced in Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MyS
 👟🎯 **Shoe Recommendation Algorithm** – personalized product suggestions
 
 🌾🛒 **Agrifarms** – a full-stack platform connecting farmers directly with consumers
+
 ---
 Active problem solver on Leetcode & Gradious LMS Portal. I don’t just code—I tinker, explore, and create things that work.
 
