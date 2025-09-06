@@ -6,8 +6,7 @@ Skilled in Python, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL a
 
 ## I’ve built impactful projects including:
 
-📈🤖 **Stock Price Prediction using Deep Learning [June 2025]**  
-– forecasting market trends using ML  
+📈🤖 **Stock Price Prediction using Deep Learning [June 2025]**  – forecasting market trends using ML  
 This project demonstrates how to predict stock closing prices using a deep learning regression model built with PyTorch. The workflow covers data preprocessing, feature engineering, model training with different activation functions, and performance visualization. I engineered time-series features, compared multiple activation functions (Sigmoid, Leaky ReLU) and optimized the model for accuracy. Learned how to handle time-series data, debug neural networks and tune models for real-world ML workflows.
 
 💰⚠️ **Bankruptcy Prediction** – risk analysis using predictive modeling
