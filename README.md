@@ -41,8 +41,8 @@ Active problem solver on Leetcode & Gradious LMS Portal. I don’t just code—I
 ---
 **Ask me about:**
 
-🚀 Building AI/ML models for real-world problems
-📊 Data preprocessing, feature engineering and predictive analytics
-🌐 Full-stack web app development (React.js, Node.js, Express.js, MySQL)
-📈 Stock market and financial data modeling
-🧠 NLP, Deep Learning and Generative AI applications
+🚀 Building AI/ML models for real-world problems  
+📊 Data preprocessing, feature engineering and predictive analytics  
+🌐 Full-stack web app development (React.js, Node.js, Express.js, MySQL)  
+📈 Stock market and financial data modeling  
+🧠 NLP, Deep Learning and Generative AI applications  
